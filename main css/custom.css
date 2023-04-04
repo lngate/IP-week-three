@@ -1,0 +1,15 @@
+
+body{
+    background-color: rgb(127, 255, 176);
+    text-align: center;
+    border: 20px;
+}
+
+.sectOne{
+    background-image: url("images/assets/backgrounds/h_img.jpg");
+ 
+
+}
+#abt{
+    background-color: bisque;
+}
