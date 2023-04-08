@@ -5,11 +5,11 @@ body{
     border: 20px;
 }
 
-.sectOne{
-    background-image: url("images/assets/backgrounds/h_img.jpg");
- 
-
+#sectOne{
+    background-color:rgb(218, 32, 196);
+    padding: 50px;
 }
+ 
 #abt{
     background-color: bisque;
 }
