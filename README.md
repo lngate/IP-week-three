@@ -19,7 +19,7 @@
 
 ## live link
 
-https://lngate.github.io/IP--week-three.git
+https://lngate.github.io/IP-week-three/
 
 ## Technologies Used
 
