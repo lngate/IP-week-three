@@ -1,15 +1,25 @@
-
-body{
-    background-color: rgb(127, 255, 176);
-    text-align: center;
-    border: 20px;
-}
-
 #sectOne{
-    background-color:rgb(218, 32, 196);
-    padding: 50px;
+    background-image: url("../images/assets/backgrounds/h_img.jpg");
+    text-align: center;
+    color: white;
+    
 }
- 
 #abt{
-    background-color: bisque;
+    text-align: center;
+}
+#sectTwo{
+    background-image: url("../images/assets/backgrounds/s_image.jpg");
+    text-align: center;
+    color: white;
+}
+
+#sectFive{
+    background-image: url("../images/assets/backgrounds/c_image.jpg");
+    text-align: center;
+    color: white;
+}
+#custName{
+    float: left;
+  width: 25%;
+  margin-top: 6px;
 }
