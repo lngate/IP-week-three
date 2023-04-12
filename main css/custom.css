@@ -12,14 +12,29 @@
     text-align: center;
     color: white;
 }
-
+.logoResize{
+    width: 40px;
+}
+.picResize{
+    width: 325px;
+}
 #sectFive{
     background-image: url("../images/assets/backgrounds/c_image.jpg");
     text-align: center;
     color: white;
 }
 #custName{
-    float: left;
+  float: left;
+  width: 25%;
+  margin-top: 6px;
+}
+#custEmail{
+  float:none;
+  width: 25%;
+  margin-top: 6px;
+}
+#custMessage{
+ float: left;
   width: 25%;
   margin-top: 6px;
 }
