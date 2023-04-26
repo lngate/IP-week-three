@@ -23,18 +23,32 @@
     text-align: center;
     color: white;
 }
-#custName{
+/* #custName{
   float: left;
   width: 25%;
   margin-top: 6px;
-}
-#custEmail{
+  display: inline;
+} */
+#cust{
   float:none;
   width: 25%;
   margin-top: 6px;
+  display: inline-block;
 }
 #custMessage{
  float: left;
   width: 25%;
   margin-top: 6px;
+  display: block;
 }
+.image-container {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .hidden-text {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: none;
+  }
